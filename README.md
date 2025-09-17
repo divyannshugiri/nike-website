@@ -61,6 +61,7 @@ http://localhost:5173
 - Vite is already installed in this project as a dev dependency.  or install using  npm install vite --save-dev
 - Always run `npm install` on a new machine before starting the project.
 
+## Quick Steps
 
 - cd nike-project
 - npm install vite --save-dev
