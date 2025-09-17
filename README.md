@@ -62,7 +62,7 @@ http://localhost:5173
 - Always run `npm install` on a new machine before starting the project.
 
 
-cd nike-project
-npm install vite --save-dev
-npm run dev
+- cd nike-project
+- npm install vite --save-dev
+- npm run dev
 
