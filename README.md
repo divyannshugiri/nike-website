@@ -1,4 +1,4 @@
-# React + Vite
+<img width="1920" height="1080" alt="Nike React Project" src="https://github.com/user-attachments/assets/f73d0df4-1172-4ffa-aea0-cd17f7f0137a" /># React + Vite
 
 # Nike Website
 
@@ -66,4 +66,7 @@ http://localhost:5173
 - cd nike-project
 - npm install vite --save-dev
 - npm run dev
+
+
+
 
